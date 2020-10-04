@@ -1,3 +1,5 @@
+## Authors: {Najib Assadullah} {Wesam Saleh}
+
 class Heap:
 	def __init__(self):
 		self.size = 0
