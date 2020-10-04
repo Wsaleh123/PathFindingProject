@@ -31,7 +31,8 @@ The conversion from vertex number to cartesian coordinates and vice-versa is giv
 ## Algorithms
 
   ### DFS
-  ![image](DFS.JPG)
+  !(DFS.JPG)
+  
   The Depth-First Search Algorithm is a basic pathfinding algorithm for unweighted 
   graph connections. The algorithm starts by finding the distance between every 
   node in the graph and the source node. The distance between two adjacent nodes
@@ -39,7 +40,8 @@ The conversion from vertex number to cartesian coordinates and vice-versa is giv
   backtrack from the destination node to find the shortest path. 
     
   ### A*
-  ![image](ASTAR.JPG)
+  ![image](Astar.JPG)
+  
   The A* Algorithm is slightly more complicated. A* is considered to be a "smart"
   pathfinding algorithm because the search is skewed towards the destination node
   due to a heuristic function. This heuristic function is variable, but for the 
@@ -59,6 +61,8 @@ The conversion from vertex number to cartesian coordinates and vice-versa is giv
   to find the shortest path.
   
   ### Dijkstra
+  ![image](Dijkstra.JPG)
+  
   Upon some research of Dijkstra's algorithm, we find that Dijkstra's algorithm is very similar to the
   A* algorithm, however it does not take into account a heuristic function. Instead, the algorithm
   is not skewed towards the destination node and accounts for the cost function of all nodes in order to
