@@ -31,7 +31,7 @@ The conversion from vertex number to cartesian coordinates and vice-versa is giv
 ## Algorithms
 
   ### DFS
-  !(DFS.JPG)
+  ![image](DFS.JPG)
   
   The Depth-First Search Algorithm is a basic pathfinding algorithm for unweighted 
   graph connections. The algorithm starts by finding the distance between every 
