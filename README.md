@@ -2,6 +2,8 @@
 
 ## Overview
 
+![image](PFV.JPG)
+
 This project aims to allow users to compare and contrast different pathfinding algorithms by vizualising them. The following are the variables that the user is allowed to choose.
 * Source Node Coordinates
   * User can choose the x and y coordinates of the source node
